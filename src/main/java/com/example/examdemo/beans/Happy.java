@@ -4,6 +4,6 @@ public class Happy {
       int age;
       String name;
       public void method(int a) {
-    	  System.out.print(a);
+    	  System.out.print("hot_fix");
       }
 }
